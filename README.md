@@ -4,8 +4,8 @@ import tweepy
 keys = dict(
 consumer_key='pKlKIHRAwt2hzWehiDIKJ0RgK',
 consumer_secret='xhARvE43hKjZAg5pC24q8UfWJaAjaXS0la23lI5TBuHQZBHrcB',
-access_token='_YOUR_ACCESS_TOKEN', 
-access_token_secret='_YOUR_ACCESS_TOKEN_SECRET'
+access_token='711280947786715136-oAAeoWFSDkHKtKzw4K0M2moKYTbwCKD', 
+access_token_secret='dQ6mA9chPMXemhr8jA6210eeP9W7Iw8tl4gpniQhrqEng'
 )
 
 user = "@loveyoulikewild"
